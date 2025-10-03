@@ -14,4 +14,4 @@ A simple Python GUI tool to help visualize and understand IP address octets in b
 - Python 3.x
 - tkinter (usually comes pre-installed with Python)
 
-- 
+<img width="777" height="1259" alt="Screenshot_20250924_102434" src="https://github.com/user-attachments/assets/da93433b-bbc2-4a18-a19f-fc21b6f7f4b4" />
