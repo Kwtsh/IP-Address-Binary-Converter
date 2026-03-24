@@ -1,6 +1,6 @@
 # IP Address Binary Converter
 
-A simple Python GUI tool to help visualize and understand IP address octets in binary format.
+A simple tool to help visualize and understand IP address octets in binary format.
 
 # Features
 
